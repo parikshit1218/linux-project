@@ -1,7 +1,7 @@
 # Open Source Software Audit - Git
 
-**Student Name:** Aditya Gupta 
-**Roll Number:** 24BCE10151
+**Student Name:** Parikshit Chaudhary
+**Roll Number:** 24BAI10188
 **Course Name:** Open Source Software  
 **Chosen Software:** Git  
 
@@ -10,7 +10,7 @@ This project is an audit and exploration of **Git**, the world's most popular di
 
 ## Directory Structure
 ```
-oss-audit-24bai10668/
+oss-audit-24bai10188/
 ├── README.md                           # This file
 ├── script1_system_identity.sh          # Outputs basic Linux OS and user info
 ├── script2_package_inspector.sh        # Checks for Git and other FOSS software
