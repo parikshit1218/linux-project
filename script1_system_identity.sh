@@ -1,7 +1,7 @@
 #!/bin/bash
 # script1_system_identity.sh
-# Author: Aditya Gupta
-# Roll Number: 24BCE10151
+# Author: Parikshit chaudhary
+# Roll Number: 24BAI10188
 # Purpose: Display basic system and user information to establish the environment
 
 echo "==========================================="
