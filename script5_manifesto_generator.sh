@@ -1,7 +1,7 @@
 #!/bin/bash
 # script5_manifesto_generator.sh
-# Author: Aditya Gupta
-# Roll Number: 24BCE10151
+# Author: Parikshit Chaudhary
+# Roll Number: 24BAI10188
 # Purpose: Interactively generate a personalized open source philosophy document
 
 echo "==========================================="
